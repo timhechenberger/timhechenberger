@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://preview.redd.it/hzhodmhyw0b71.jpg?auto=webp&s=ba9ad2c87dde6dffe80b8a4ac38d0491a8a96145" width="150"/>
+</p>
+
 <h2 align="center">Tim Hechenberger</h2>
 <p align="center">
   Student Developer · Salzburg, Austria · HTL-Saalfelden
@@ -30,17 +34,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-
----
-
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=timhechenberger&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timhechenberger&theme=default&hide_border=true"/>
 </p>
 
 ---

@@ -18,9 +18,9 @@
 
 ---
 
-### 🛠 Tech Stack
+<h3 align="center">🛠 Tech Stack</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -42,41 +42,37 @@
 
 ---
 
-### 🏅 Certifications
+<h3 align="center">🏅 Certifications</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td width="60">
+    <td align="center" width="80">
       <a href="https://www.credly.com/badges/60f1968e-a58d-420c-b102-d0c936fada41/public_url">
         <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="55"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <strong>Introduction to Cybersecurity</strong><br/>
-      <sub>Cisco Networking Academy · Nov 2024</sub><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/-Cyber_Best_Practices-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Cybersecurity_Basics-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Network_Vulnerabilities-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Threat_Detection-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Privacy_%26_Confidentiality-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-      </sub>
+      <sub>Cisco Networking Academy · Nov 2024</sub><br/><br/>
+      <img src="https://img.shields.io/badge/-Cyber_Best_Practices-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Cybersecurity_Basics-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Network_Vulnerabilities-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Threat_Detection-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Privacy_%26_Confidentiality-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td width="60">
+    <td align="center" width="80">
       <img src="https://asr-regensburg.de/wp-content/uploads/2023/08/ECDL-1.jpg" width="55"/>
     </td>
-    <td>
+    <td align="center">
       <strong>ECDL / ICDL</strong><br/>
-      <sub>ECDL Foundation</sub><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/-Computer_Essentials-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Online_Essentials-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Word_Processing-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-        <img src="https://img.shields.io/badge/-Spreadsheets-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
-      </sub>
+      <sub>ECDL Foundation</sub><br/><br/>
+      <img src="https://img.shields.io/badge/-Computer_Essentials-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Online_Essentials-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Word_Processing-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/-Spreadsheets-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
     </td>
   </tr>
 </table>

@@ -20,8 +20,6 @@
 
 <div align="center">
 
-<h3>🛠 Tech Stack</h3>
-
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -41,8 +39,6 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 <hr/>
-
-<h3>🏅 Certifications</h3>
 
 <table>
   <tr>

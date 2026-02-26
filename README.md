@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HIER_RAW_LINK_EINFÜGEN" width="150"/>
+  <img src="https://preview.redd.it/pls5ttwl5u671.jpg?auto=webp&s=a97a1747699b3fba5b556666b899afcf771b6733" width="150"/>
 </p>
 
 <h2 align="center">Tim Hechenberger</h2>
@@ -66,7 +66,7 @@
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ECDL_logo.svg/120px-ECDL_logo.svg.png" width="55"/>
+      <img src="https://asr-regensburg.de/wp-content/uploads/2023/08/ECDL-1.jpg" width="55"/>
     </td>
     <td>
       <strong>ECDL / ICDL</strong><br/>

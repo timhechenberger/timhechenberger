@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preview.redd.it/hzhodmhyw0b71.jpg?auto=webp&s=ba9ad2c87dde6dffe80b8a4ac38d0491a8a96145" width="150"/>
+  <img src="HIER_RAW_LINK_EINFÜGEN" width="150"/>
 </p>
 
 <h2 align="center">Tim Hechenberger</h2>
@@ -9,6 +9,10 @@
 <p align="center">
   <a href="mailto:timhec44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-timhec44-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://portfoliotimhechenberger.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Willkommen-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
@@ -40,7 +44,39 @@
 
 ### 🏅 Certifications
 
-| Badge | Name | Issuer |
-|-------|------|--------|
-| ![Cisco](https://img.shields.io/badge/CISCO-Networking_Academy-1BA0D8?style=flat-square&logo=cisco&logoColor=white) | Networking Academy | Cisco Systems |
-| ![Cisco](https://img.shields.io/badge/CISCO-Network_Security_Basics-1BA0D8?style=flat-square&logo=cisco&logoColor=white) | Network Security Basics | Cisco Systems |
+<table>
+  <tr>
+    <td width="60">
+      <a href="https://www.credly.com/org/cisco-networking-academy/badge/introduction-to-cybersecurity">
+        <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="55"/>
+      </a>
+    </td>
+    <td>
+      <strong>Introduction to Cybersecurity</strong><br/>
+      <sub>Cisco Networking Academy · Nov 2024</sub><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/-Cyber_Best_Practices-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Cybersecurity_Basics-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Network_Vulnerabilities-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Threat_Detection-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Privacy_%26_Confidentiality-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+      </sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ECDL_logo.svg/120px-ECDL_logo.svg.png" width="55"/>
+    </td>
+    <td>
+      <strong>ECDL / ICDL</strong><br/>
+      <sub>ECDL Foundation</sub><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/-Computer_Essentials-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Online_Essentials-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Word_Processing-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+        <img src="https://img.shields.io/badge/-Spreadsheets-e8f0fe?style=flat-square&labelColor=e8f0fe&color=e8f0fe"/>
+      </sub>
+    </td>
+  </tr>
+</table>

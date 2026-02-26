@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-timhec44-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://portfoliotimhechenberger.netlify.app">
+  <a href="https://portfolio-timhechenberger.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Willkommen-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
   </a>
 </p>
@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td width="60">
-      <a href="https://www.credly.com/org/cisco-networking-academy/badge/introduction-to-cybersecurity">
+      <a href="https://www.credly.com/badges/60f1968e-a58d-420c-b102-d0c936fada41/public_url">
         <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="55"/>
       </a>
     </td>

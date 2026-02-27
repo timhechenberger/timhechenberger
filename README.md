@@ -20,6 +20,8 @@
 
 <div align="center">
 
+<h3>🛠 Tech Stack</h3>
+
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -40,6 +42,8 @@
 
 <hr/>
 
+<h3>🏅 Certifications</h3>
+
 <table>
   <tr>
     <td align="center" width="80">
@@ -50,11 +54,11 @@
     <td align="center">
       <strong>Introduction to Cybersecurity</strong><br/>
       <sub>Cisco Networking Academy · Nov 2024</sub><br/><br/>
-      <img src="https://img.shields.io/badge/-Cyber_Best_Practices-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Cybersecurity_Basics-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Network_Vulnerabilities-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Threat_Detection-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Privacy_%26_Confidentiality-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/Cyber%20Best%20Practices-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Cybersecurity%20Basics-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Network%20Vulnerabilities-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Threat%20Detection-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Privacy%20%26%20Confidentiality-dbeafe?style=flat-square&logoColor=333"/>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -65,10 +69,10 @@
     <td align="center">
       <strong>ECDL / ICDL</strong><br/>
       <sub>ECDL Foundation</sub><br/><br/>
-      <img src="https://img.shields.io/badge/-Computer_Essentials-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Online_Essentials-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Word_Processing-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
-      <img src="https://img.shields.io/badge/-Spreadsheets-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe"/>
+      <img src="https://img.shields.io/badge/Computer%20Essentials-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Online%20Essentials-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Word%20Processing-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Spreadsheets-dbeafe?style=flat-square&logoColor=333"/>
     </td>
   </tr>
 </table>

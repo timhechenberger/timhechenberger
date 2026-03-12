@@ -75,6 +75,20 @@
       <img src="https://img.shields.io/badge/Spreadsheets-dbeafe?style=flat-square&logoColor=333"/>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://ki-campus.org/sites/default/files/styles/kic_teaser_image/public/2021-10/KI-Campus_Logo_RGB.png" width="55"/>
+    </td>
+    <td align="center">
+      <strong>EU AI Act Essentials</strong><br/>
+      <sub>KI-Campus · Feb 2025</sub><br/><br/>
+      <img src="https://img.shields.io/badge/EU%20AI%20Act%20Einf%C3%BChrung-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Verwandte%20EU%20Gesetze-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Implementierung%20%26%20Meilensteine-dbeafe?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Praktische%20Szenarien-dbeafe?style=flat-square&logoColor=333"/>
+    </td>
+  </tr>
 </table>
 
 </div>

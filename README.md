@@ -42,9 +42,6 @@
 
 <hr/>
 
-<h3>🏅 Certifications</h3>
-
-
 <table>
   <tr>
     <td align="center" width="80">

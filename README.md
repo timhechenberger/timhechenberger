@@ -78,7 +78,7 @@
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://ki-campus.org/sites/default/files/styles/kic_teaser_image/public/2021-10/KI-Campus_Logo_RGB.png" width="55"/>
+      <img src="https://moodle.ki-campus.org/pluginfile.php/57308/badges/badgeimage/63/f1?refresh=7962" width="55"/>
     </td>
     <td align="center">
       <strong>EU AI Act Essentials</strong><br/>

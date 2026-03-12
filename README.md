@@ -44,6 +44,7 @@
 
 <h3>🏅 Certifications</h3>
 
+
 <table>
   <tr>
     <td align="center" width="80">
@@ -76,9 +77,11 @@
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
-  <tr>
+   <tr>
     <td align="center" width="80">
-      <img src="https://moodle.ki-campus.org/pluginfile.php/57308/badges/badgeimage/63/f1?refresh=7962" width="55"/>
+      <a href="https://github.com/user-attachments/assets/075f1823-9fa4-44ab-b295-74401ad78025">
+        <img src="https://moodle.ki-campus.org/pluginfile.php/57308/badges/badgeimage/63/f1?refresh=7962" width="55"/>
+      </a>
     </td>
     <td align="center">
       <strong>EU AI Act Essentials</strong><br/>
